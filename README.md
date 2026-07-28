@@ -1,24 +1,28 @@
-<h1 align="center">Hi 👋, I'm Fadia Iftikhar</h1>
+<div align="center">
 
-<h3 align="center">ML Engineer & Deep Learning Engineer | Full-Stack Developer (Frontend & Backend)</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Fadia%20Iftikhar&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=ML%20Engineer%20%7C%20Deep%20Learning%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58&descSize=20" alt="banner"/>
 
-<p align="center">
-🔬 Specializations: Machine Learning • Deep Learning • Data Science • Frontend Development • Backend Development
+### Building end-to-end AI-powered applications — from trained models to fully deployed web products 🚀
+
+<p>
+  <a href="https://www.linkedin.com/" target="_blank">
+    <img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/fadiaiftikhar680-cmd" target="_blank">
+    <img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.kaggle.com/fadiaiftikhar1094" target="_blank">
+    <img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
 </p>
 
-<p align="center">
-🚀 Current Work: Building end-to-end AI-powered applications — from trained models to fully deployed web products
-</p>
-
-<p align="center">
-📍 Pakistan | 🎓 AI / Software Enthusiast | 🌍 Open to AI/ML & Full-Stack Internships & Collaborations
-</p>
+</div>
 
 ---
 
 ## 🎯 WHO AM I?
 
-I'm **Fadia Iftikhar** — an **ML Engineer**, **Deep Learning Engineer**, and **Full-Stack Developer** who enjoys building complete, intelligent products — not just training models, but shipping them as real, usable applications.
+I'm **Fadia Iftikhar** — an ML Engineer, Deep Learning Engineer, and Full-Stack Developer who enjoys building complete, intelligent products — not just training models, but shipping them as real, usable applications.
 
 🚀 My primary focus is **Machine Learning, Deep Learning, and Data Science**, combined with **Frontend & Backend Development** to turn AI models into deployable, real-world tools.
 
@@ -52,23 +56,17 @@ I'm **Fadia Iftikhar** — an **ML Engineer**, **Deep Learning Engineer**, and *
 
 ## 🔧 TECH STACK
 
-**Languages**
-`Python` `SQL`
+**Languages:** Python • SQL
 
-**Machine Learning & Data Science**
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
+**Machine Learning & Data Science:** Scikit-learn • Pandas • NumPy • Matplotlib • Seaborn
 
-**Deep Learning**
-`TensorFlow` *(Learning)*
+**Deep Learning:** TensorFlow (Learning)
 
-**Frameworks & Deployment**
-`FastAPI` `Streamlit`
+**Frameworks & Deployment:** FastAPI • Streamlit
 
-**Frontend & Backend**
-*(HTML/CSS/JS, React, Node.js, Django, etc.)*
+**Frontend & Backend:** HTML/CSS/JS • React • Node.js • Django, etc.
 
-**Tools**
-`Git` `GitHub` `Jupyter Notebook` `VS Code`
+**Tools:** Git • GitHub • Jupyter Notebook • VS Code
 
 ---
 
@@ -76,10 +74,10 @@ I'm **Fadia Iftikhar** — an **ML Engineer**, **Deep Learning Engineer**, and *
 
 | Project | Description |
 |---|---|
-| 🏦 [Loan Risk Prediction System](https://github.com/fadiaiftikhar680-cmd/Loan-Risk-Prediction-System) | ML model to assess and predict loan risk |
-| 📈 [Startup Profit Prediction App](https://github.com/fadiaiftikhar680-cmd/Startup_Profit_App) | Predicts startup profit using regression modeling |
-| 🏠 [House Price Prediction System](https://github.com/fadiaiftikhar680-cmd/House_price_prediction_system) | Predicts housing prices from key property features |
-| 👥 [Customer Churn Prediction](https://github.com/fadiaiftikhar680-cmd/customer-churn-prediction) | Predicts customer churn using classification models |
+| 🏦 Loan Risk Prediction System | ML model to assess and predict loan risk |
+| 📈 Startup Profit Prediction App | Predicts startup profit using regression modeling |
+| 🏠 House Price Prediction System | Predicts housing prices from key property features |
+| 👥 Customer Churn Prediction | Predicts customer churn using classification models |
 | 📉 Multiple Linear Regression | Regression modeling project on real-world data |
 | 🔍 EDA Project | Exploratory Data Analysis on a real-world dataset |
 
@@ -87,10 +85,10 @@ I'm **Fadia Iftikhar** — an **ML Engineer**, **Deep Learning Engineer**, and *
 
 ## 🎯 CURRENT GOALS
 
-- 🚀 Strengthening expertise in **Deep Learning** and **Model Deployment**
-- 🌐 Growing as a **Full-Stack Developer** alongside ML engineering
+- 🚀 Strengthening expertise in Deep Learning and Model Deployment
+- 🌐 Growing as a Full-Stack Developer alongside ML engineering
 - 🤖 Building complete AI products — from model to live application
-- 🌍 Preparing for **AI/ML and Full-Stack internship** opportunities
+- 🌍 Preparing for AI/ML and Full-Stack internship opportunities
 - 💡 Building projects that solve real, practical problems
 
 ---
@@ -99,11 +97,8 @@ I'm **Fadia Iftikhar** — an **ML Engineer**, **Deep Learning Engineer**, and *
 
 Let's connect and collaborate on ML, Deep Learning, or Full-Stack projects.
 
-- 💼 **LinkedIn:** [Fadia Iftikhar](https://www.linkedin.com/in/fadia-iftikhar-68b891408)
+- 💼 **LinkedIn:** Fadia Iftikhar
 - 🐙 **GitHub:** [fadiaiftikhar680-cmd](https://github.com/fadiaiftikhar680-cmd)
-- 📊 **Kaggle:** *(https://www.kaggle.com/fadiaiftikhar1094)*
+- 📊 **Kaggle:** [fadiaiftikhar1094](https://www.kaggle.com/fadiaiftikhar1094)
 
-
----
-
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=100&section=footer"/>
