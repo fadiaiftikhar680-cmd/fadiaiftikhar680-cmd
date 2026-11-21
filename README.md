@@ -28,10 +28,10 @@
 
 ### 👩‍💻 About Me
 
-I am **Fadia Iftikhar**, an **AI/ML Engineer and App Developer** pursuing a **BS in Artificial Intelligence** at *The Islamia University of Bahawalpur*[cite: 1, 12]. I focus on bridging the gap between **machine learning models and production applications** — engineering cross-platform mobile apps, on-device AI workflows, deterministic verification engines, and data-driven SaaS platforms[cite: 12].
+I am **Fadia Iftikhar**, an **AI/ML Engineer and App Developer** pursuing a **BS in Artificial Intelligence** at *The Islamia University of Bahawalpur*. I focus on bridging the gap between **machine learning models and production applications** — engineering cross-platform mobile apps, on-device AI workflows, deterministic verification engines, and data-driven SaaS platforms.
 
-- 📱 **Currently Working As:** App Developer at **Pytensa**, building scalable cross-platform apps and integrating real-time ML models into mobile workflows[cite: 12].
-- 🧠 **Core Expertise:** Machine Learning, Deep Learning, NLP, Computer Vision, Cross-Platform Mobile Development (Flutter & Dart), and Python Backend Engineering (Django, FastAPI, Streamlit)[cite: 2, 3, 10].
+- 📱 **Currently Working As:** App Developer at **Pytensa**, building scalable cross-platform apps and integrating real-time ML models into mobile workflows.
+- 🧠 **Core Expertise:** Machine Learning, Deep Learning, NLP, Computer Vision, Cross-Platform Mobile Development (Flutter & Dart), and Python Backend Engineering (Django, FastAPI, Streamlit).
 - ⚡ **Engineering Philosophy:** *Architect cleanly → Integrate AI thoughtfully → Ship reliably.*
 
 ---
@@ -70,25 +70,25 @@ I am **Fadia Iftikhar**, an **AI/ML Engineer and App Developer** pursuing a **BS
 
 ### 💼 Experience
 
-- **App Developer** — *Pytensa* (`Oct 2026 – Present` · Bahawalpur, Pakistan)[cite: 12]
-  - Engineering scalable cross-platform mobile applications with Python, REST APIs, and Machine Learning[cite: 12].
-  - Integrating real-time on-device AI models directly into mobile user workflows[cite: 12].
-- **Robotics & Automation Intern** — *CodeAlpha* (`Oct 2026 – Nov 2026` · Remote)[cite: 4, 12]
-  - Developed robotic control logic and Python-based workflow automation systems[cite: 2, 12].
-- **AI/ML Business Development Intern** — *Vartex Soft* (`Sep 2026 – Oct 2026` · Bahawalpur, Pakistan)[cite: 13]
-  - Identified AI/ML project opportunities and aligned technical capabilities with prospective client needs[cite: 13].
-- **Artificial Intelligence Intern** — *DecodeLabs* (`Jul 2026 – Aug 2026` · Remote)[cite: 8, 13]
-  - Built and evaluated supervised/unsupervised ML models and end-to-end AI problem-solving pipelines[cite: 2, 8].
-- **Machine Learning Engineer Apprentice** — *Logixx Grid* (`Apr 2026 – Aug 2026` · Bahawalnagar, Pakistan)[cite: 13]
-  - Executed hands-on data preprocessing, feature engineering, model evaluation, and ML deployment workflows[cite: 13].
+- **App Developer** — *Pytensa* (`Oct 2026 – Present` · Bahawalpur, Pakistan)
+  - Engineering scalable cross-platform mobile applications with Python, REST APIs, and Machine Learning.
+  - Integrating real-time on-device AI models directly into mobile user workflows.
+- **Robotics & Automation Intern** — *CodeAlpha* (`Oct 2026 – Nov 2026` · Remote)
+  - Developed robotic control logic and Python-based workflow automation systems.
+- **AI/ML Business Development Intern** — *Vartex Soft* (`Sep 2026 – Oct 2026` · Bahawalpur, Pakistan)
+  - Identified AI/ML project opportunities and aligned technical capabilities with prospective client needs.
+- **Artificial Intelligence Intern** — *DecodeLabs* (`Jul 2026 – Aug 2026` · Remote)
+  - Built and evaluated supervised/unsupervised ML models and end-to-end AI problem-solving pipelines.
+- **Machine Learning Engineer Apprentice** — *Logixx Grid* (`Apr 2026 – Aug 2026` · Bahawalnagar, Pakistan)
+  - Executed hands-on data preprocessing, feature engineering, model evaluation, and ML deployment workflows.
 
 ---
 
 ### 🎓 Education
 
-- **The Islamia University of Bahawalpur** — *Bachelor of Science in Artificial Intelligence (BSAI)* (`2024 – 2028` · CGPA: **3.54 / 4.00**)[cite: 1, 9]
-- **Superior College** — *Intermediate in Computer Science (ICS)* (`2022 – 2024`)[cite: 1]
-- **The Pace School** — *Matriculation in Science* (`2020 – 2022`)[cite: 1]
+- **The Islamia University of Bahawalpur** — *Bachelor of Science in Artificial Intelligence (BSAI)* (`2024 – 2028` · CGPA: **3.54 / 4.00**)
+- **Superior College** — *Intermediate in Computer Science (ICS)* (`2022 – 2024`)
+- **The Pace School** — *Matriculation in Science* (`2020 – 2022`)
 
 ---
 
@@ -96,13 +96,13 @@ I am **Fadia Iftikhar**, an **AI/ML Engineer and App Developer** pursuing a **BS
 
 | Certification | Issuing Organization | Date | Credential / Verification |
 | :--- | :--- | :---: | :--- |
-| **Introduction to AI** | Google (Coursera)[cite: 6] | Nov 2026[cite: 6] | [`6CRQTSGBZFKX`](https://coursera.org/verify/6CRQTSGBZFKX)[cite: 6] |
-| **AI Fundamentals** | Google (Coursera)[cite: 5] | Nov 2026[cite: 5] | [`37CX0X2SAJNM`](https://coursera.org/verify/37CX0X2SAJNM)[cite: 5] |
-| **Robotics & Automation Internship** | CodeAlpha[cite: 2, 4] | Nov 2026[cite: 2, 4] | `CA/DF1/314431`[cite: 2, 4] |
-| **Artificial Intelligence Internship** | DecodeLabs[cite: 2, 8] | Aug 2026[cite: 2, 8] | `A1087042`[cite: 2, 8] |
-| **Flutter for Beginners: Mobile Apps** | Udemy[cite: 3, 10] | Aug 2026[cite: 3, 10] | [`UC-c42f8b12...`](https://ude.my/UC-c42f8b12-f354-4af3-ab0d-abc88b12ab6e)[cite: 10] |
-| **Python Programming Mastery** | Udemy[cite: 11] | May 2026[cite: 11] | [`UC-f79ee05d...`](https://ude.my/UC-f79ee05d-7dca-48bd-a36f-6276f565acde)[cite: 11] |
-| **Dart Mastery: From Zero to Hero** | Udemy[cite: 3, 7] | Apr 2026[cite: 3, 7] | [`UC-74298619...`](https://ude.my/UC-74298619-366e-4b98-93c9-2363b29e4899)[cite: 7] |
+| **Introduction to AI** | Google (Coursera) | Nov 2026 | [`6CRQTSGBZFKX`](https://coursera.org/verify/6CRQTSGBZFKX) |
+| **AI Fundamentals** | Google (Coursera) | Nov 2026 | [`37CX0X2SAJNM`](https://coursera.org/verify/37CX0X2SAJNM) |
+| **Robotics & Automation Internship** | CodeAlpha | Nov 2026 | `CA/DF1/314431` |
+| **Artificial Intelligence Internship** | DecodeLabs | Aug 2026 | `A1087042` |
+| **Flutter for Beginners: Mobile Apps** | Udemy | Aug 2026 | [`UC-c42f8b12...`](https://ude.my/UC-c42f8b12-f354-4af3-ab0d-abc88b12ab6e) |
+| **Python Programming Mastery** | Udemy | May 2026 | [`UC-f79ee05d...`](https://ude.my/UC-f79ee05d-7dca-48bd-a36f-6276f565acde) |
+| **Dart Mastery: From Zero to Hero** | Udemy | Apr 2026 | [`UC-74298619...`](https://ude.my/UC-74298619-366e-4b98-93c9-2363b29e4899) |
 
 ---
 
